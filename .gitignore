@@ -1,0 +1,17 @@
+# Credenciales y configuraciones privadas
+.env
+.env.*
+!.env.example
+*.local.sql
+
+# Respaldos y archivos físicos de SQL Server
+*.bak
+*.trn
+*.bacpac
+*.mdf
+*.ldf
+
+# Archivos temporales
+*.tmp
+Thumbs.db
+Desktop.ini
