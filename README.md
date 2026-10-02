@@ -39,3 +39,9 @@ Los permisos efectivos fueron: SELECT=1, INSERT=0, UPDATE=0, DELETE=0.
 El usuario temporal sin login permitió comprobar el rol.
 La creación de los logins solicitados sigue pendiente de los
 permisos del administrador del servidor.
+## Estado de ejecución
+- Exportación BACPAC realizada.
+- Scripts de backup completo, diferencial y restauración incluidos.
+- Ejecución de respaldos nativos y prueba de restauración pendientes de verificar.
+- Creación de logins y usuarios pendiente del administrador del servidor.
+- Filtro Top 10 de clientes en Power BI pendiente de comprobar.
